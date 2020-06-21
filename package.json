@@ -1,0 +1,26 @@
+{
+  "name": "slothcc",
+  "version": "0.0.1",
+  "description": "Write eazy test cases for your C console applications",
+  "main": "index.js",
+  "bin": {
+    "slothcc": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "c",
+    "cases",
+    "slothcc"
+  ],
+  "author": "Daniel Acuña",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0"
+  },
+  "devDependencies": {
+    "uuid": "^8.1.0",
+    "pkg": "^4.4.8"
+  }
+}
