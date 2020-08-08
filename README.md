@@ -1,3 +1,10 @@
+```
+⚠️ WORK IN PROGRESS
+
+That project is work in progress. It's not working for all cases, just for easy cases. 
+However, be careful if you try to use it and feel free to report any new issue.
+```
+
 <p align="center">
   <img
     width="250"
