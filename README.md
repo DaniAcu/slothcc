@@ -13,8 +13,6 @@ However, be careful if you try to use it and feel free to report any new issue.
   />
 </p>
 
-> Note: That project is in progress. You could use it soon.
-
 # Motivation
 I noticed a lot of new students at university, starting to coding on C and test his programs manually. In some cases, you will need to insert for example a matrix 10x10, and you will insert 100 of values manually. It is a little crazy! Also that student it's learning about this programming language, so that means that his program will have some errors before it works as expected. For each failure, the students will need to re-enter all this amount of values again. That consumes the time, time that he could learn more about the language and his program.
 I'm a little sloth, so that was the first motivation to do that. 
